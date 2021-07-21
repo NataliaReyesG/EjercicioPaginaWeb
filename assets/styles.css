@@ -1,0 +1,35 @@
+/*imagen de fondo*/
+.bg-comida {
+    background: linear-gradient(20deg, rgb(11, 109, 31) 35%, rgb(30, 88, 12) 100%); 
+  
+}
+
+
+/*color navbar*/
+.bg-Color{
+    background: linear-gradient(20deg, rgb(0, 51, 0) 35%, rgb(48, 133, 27) 100%);
+}
+
+/*Fuentes*/
+
+.text{
+    font-family: Arial;
+}
+
+/*alineacion formulario*/
+.screen-form{
+    height: 100vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+
+}
+
+.item{
+    order: 8 px;
+}
+/*Color cliente*/
+.card-header {
+    background-color: rgb(4, 163, 4);
+    color:white;   
+}
